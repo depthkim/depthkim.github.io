@@ -18,12 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Depthkim Tech Blog
 email: depthkim@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >-
+  개발 경험과 문제 해결 과정을 기록하는 Depthkim의 기술 블로그입니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://depthkim.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: depthkim
